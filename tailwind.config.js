@@ -1,9 +1,1 @@
-/** @type {import('tailwindcss').Config} */
-export default {
-  content: [],
-  theme: {
-    extend: {},
-  },
-  plugins: [],
-}
-
+/* This file contains primary, secondary and tertiary colors as well as the box shadows, screens, and background image */
